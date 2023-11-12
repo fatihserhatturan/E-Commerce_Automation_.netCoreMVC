@@ -1,0 +1,9 @@
+C:\Users\fatti\Desktop\Web-projesi\Entity Layer\bin\Debug\netcoreapp3.1\Entity Layer.deps.json
+C:\Users\fatti\Desktop\Web-projesi\Entity Layer\bin\Debug\netcoreapp3.1\Entity Layer.dll
+C:\Users\fatti\Desktop\Web-projesi\Entity Layer\bin\Debug\netcoreapp3.1\Entity Layer.pdb
+C:\Users\fatti\Desktop\Web-projesi\Entity Layer\obj\Debug\netcoreapp3.1\Entity Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatti\Desktop\Web-projesi\Entity Layer\obj\Debug\netcoreapp3.1\Entity Layer.AssemblyInfoInputs.cache
+C:\Users\fatti\Desktop\Web-projesi\Entity Layer\obj\Debug\netcoreapp3.1\Entity Layer.AssemblyInfo.cs
+C:\Users\fatti\Desktop\Web-projesi\Entity Layer\obj\Debug\netcoreapp3.1\Entity Layer.csproj.CoreCompileInputs.cache
+C:\Users\fatti\Desktop\Web-projesi\Entity Layer\obj\Debug\netcoreapp3.1\Entity Layer.dll
+C:\Users\fatti\Desktop\Web-projesi\Entity Layer\obj\Debug\netcoreapp3.1\Entity Layer.pdb
